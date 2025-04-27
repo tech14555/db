@@ -1,10 +1,9 @@
 {
   "hi": "https://github.com/Sadiya-Md-Data/SADIYA-MD--DATABASE/raw/refs/heads/main/DATA/voice/hi_voice.mp3",
-  "gm": "",
-  "good morning": "",
+  "gm": "https://github.com/Sadiya-Md-Data/SADIYA-MD--DATABASE/raw/refs/heads/main/DATA/voice/gm_voice.mp3",
+  "good morning": "https://github.com/Sadiya-Md-Data/SADIYA-MD--DATABASE/raw/refs/heads/main/DATA/voice/gm_voice.mp3",
   "gn": "https://github.com/Sadiya-Md-Data/SADIYA-MD--DATABASE/raw/refs/heads/main/DATA/voice/gn_voice.mp3",
   "good night": "https://github.com/Sadiya-Md-Data/SADIYA-MD--DATABASE/raw/refs/heads/main/DATA/voice/gn_voice.mp3",
-  "hmm": "https://github.com/Sadiya-Md-Data/SADIYA-MD--DATABASE/raw/refs/heads/main/DATA/voice/hmm_voice.mp3",
   "mk": "https://github.com/Sadiya-Md-Data/SADIYA-MD--DATABASE/raw/refs/heads/main/DATA/voice/mk_voice.mp3",
   "mokada karanne": "https://github.com/Sadiya-Md-Data/SADIYA-MD--DATABASE/raw/refs/heads/main/DATA/voice/mk_voice.mp3",
   "bye": "https://github.com/Sadiya-Md-Data/SADIYA-MD--DATABASE/raw/refs/heads/main/DATA/voice/bye_voice.mp3"
