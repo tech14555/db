@@ -1,4 +1,24 @@
 {
-  "hi":"",
-  "gm":""
+  "Hi": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/hi.webp",
+  "mk": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/mk.webp",
+  "mn": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/mn.webp",
+  "Hmm": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/hmm.webp",
+  "Manika": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/manike.webp",
+  "patiyo": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/manike.webp",
+  "gm": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/gm.webp",
+  "good morning": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/gm.webp",
+  "gn": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/gn.webp",
+  "good night": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/gn.webp",
+  "bye": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/bye.webp",
+  "bs": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/bye.webp",
+  "ai": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/ai.webp",
+  "ponnaya": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/bad-word.webp",
+  "sex": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/bad-word.webp",
+  "huththo": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/bad-word.webp",
+  "paka": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/bad-word.webp",
+  "pakaya": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/bad-word.webp",
+  "kariya": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/bad-word.webp",
+  "bot": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/sadiya-md.webp",
+  "sadiya": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/sadiya.webp",
+  "sadiya tech": "https://raw.githubusercontent.com/tech14555/db/refs/heads/main/DATA/sticker/sadiya.webp"
 }
